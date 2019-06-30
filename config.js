@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://mudchobo.github.io',
+  title: 'mudchobo devlog',
+  subtitle: 'mudchobo\'s develop log',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'mudchobo-github-io',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-59041629-2',
   menu: [
     {
       label: 'Articles',
@@ -23,16 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'mudchobo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'mudchobo develop log',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'mudchobo@gmail.com',
+      twitter: 'mudchobo',
+      github: 'mudchobo'
+      // rss: '#'
     }
   }
 };
