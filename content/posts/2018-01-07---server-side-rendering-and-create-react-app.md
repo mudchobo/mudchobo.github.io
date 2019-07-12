@@ -220,7 +220,7 @@ npm install babel-cli --save-dev
 ```
 
 실행 스크립트에 server:start 추가.
-```javascript
+```json
 package.json
 "scripts": {
     "start": "react-scripts start",
