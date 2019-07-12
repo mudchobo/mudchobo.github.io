@@ -227,13 +227,13 @@ app<span class="token punctuation">.</span><span class="token function">listen</
 실서버에 배포할 때에는 babel로 컴파일 후 배포해야함.</p>
 <div class="gatsby-highlight" data-language="shell"><pre class="language-shell"><code class="language-shell"><span class="token function">npm</span> <span class="token function">install</span> babel-cli --save-dev</code></pre></div>
 <p>실행 스크립트에 server:start 추가.</p>
-<div class="gatsby-highlight" data-language="javascript"><pre class="language-javascript"><code class="language-javascript"><span class="token keyword">package</span><span class="token punctuation">.</span>json
-<span class="token string">"scripts"</span><span class="token punctuation">:</span> <span class="token punctuation">{</span>
-    <span class="token string">"start"</span><span class="token punctuation">:</span> <span class="token string">"react-scripts start"</span><span class="token punctuation">,</span>
-    <span class="token string">"build"</span><span class="token punctuation">:</span> <span class="token string">"react-scripts build"</span><span class="token punctuation">,</span>
-    <span class="token string">"test"</span><span class="token punctuation">:</span> <span class="token string">"react-scripts test --env=jsdom"</span><span class="token punctuation">,</span>
-    <span class="token string">"eject"</span><span class="token punctuation">:</span> <span class="token string">"react-scripts eject"</span><span class="token punctuation">,</span>
-    <span class="token string">"server:start"</span><span class="token punctuation">:</span> <span class="token string">"NODE_ENV=development babel-node src/server --presets env,react-app"</span>
+<div class="gatsby-highlight" data-language="json"><pre class="language-json"><code class="language-json">package.json
+<span class="token property">"scripts"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token property">"start"</span><span class="token operator">:</span> <span class="token string">"react-scripts start"</span><span class="token punctuation">,</span>
+    <span class="token property">"build"</span><span class="token operator">:</span> <span class="token string">"react-scripts build"</span><span class="token punctuation">,</span>
+    <span class="token property">"test"</span><span class="token operator">:</span> <span class="token string">"react-scripts test --env=jsdom"</span><span class="token punctuation">,</span>
+    <span class="token property">"eject"</span><span class="token operator">:</span> <span class="token string">"react-scripts eject"</span><span class="token punctuation">,</span>
+    <span class="token property">"server:start"</span><span class="token operator">:</span> <span class="token string">"NODE_ENV=development babel-node src/server --presets env,react-app"</span>
   <span class="token punctuation">}</span></code></pre></div>
 <div class="gatsby-highlight" data-language="shell"><pre class="language-shell"><code class="language-shell"><span class="token function">npm</span> run build
 <span class="token function">npm</span> run server:start</code></pre></div>

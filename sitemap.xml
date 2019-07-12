@@ -4,10 +4,10 @@
 <url> <loc>https://mudchobo.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mudchobo.github.io/posts/java-datetimeformatter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mudchobo.github.io/posts/server-side-rendering-and-create-react-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mudchobo.github.io/posts/spring-boot-jpa-mysql-comment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mudchobo.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mudchobo.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mudchobo.github.io/posts/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mudchobo.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mudchobo.github.io/posts/spring-boot-jpa-mysql-comment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mudchobo.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mudchobo.github.io/tag/jpa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mudchobo.github.io/tag/java</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mudchobo.github.io/tag/local-date-time</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

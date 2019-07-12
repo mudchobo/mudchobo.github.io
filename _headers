@@ -87,7 +87,7 @@
   Link: </1-03c634710177adbcdae8.js>; rel=preload; as=script
   Link: </2-cdefd4714aa2495b3b2e.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-a8ff09a26ce36c9697da.js>; rel=preload; as=script
-/posts/spring-boot-jpa-mysql-comment
+/posts/gatsby
   Link: </webpack-runtime-4061b959dda8df836b09.js>; rel=preload; as=script
   Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
   Link: </app-3c76e6cdec8d2e26afff.js>; rel=preload; as=script
@@ -102,14 +102,7 @@
   Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
   Link: </1-03c634710177adbcdae8.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-436dc25c6e96f73fe256.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-4061b959dda8df836b09.js>; rel=preload; as=script
-  Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
-  Link: </app-3c76e6cdec8d2e26afff.js>; rel=preload; as=script
-  Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
-  Link: </1-03c634710177adbcdae8.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-436dc25c6e96f73fe256.js>; rel=preload; as=script
-/posts/gatsby
+/posts/spring-boot-jpa-mysql-comment
   Link: </webpack-runtime-4061b959dda8df836b09.js>; rel=preload; as=script
   Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
   Link: </app-3c76e6cdec8d2e26afff.js>; rel=preload; as=script
@@ -117,6 +110,13 @@
   Link: </1-03c634710177adbcdae8.js>; rel=preload; as=script
   Link: </2-cdefd4714aa2495b3b2e.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-a8ff09a26ce36c9697da.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-4061b959dda8df836b09.js>; rel=preload; as=script
+  Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
+  Link: </app-3c76e6cdec8d2e26afff.js>; rel=preload; as=script
+  Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
+  Link: </1-03c634710177adbcdae8.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-436dc25c6e96f73fe256.js>; rel=preload; as=script
 /tag/jpa
   Link: </webpack-runtime-4061b959dda8df836b09.js>; rel=preload; as=script
   Link: </styles-c7c58c6d463d4013b696.js>; rel=preload; as=script
